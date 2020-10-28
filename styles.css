@@ -157,6 +157,16 @@
     text-decoration: underline;
 }
 
+.carousel-indicators li {
+    border-radius: 100%;
+    background-color: black;
+    width: 5px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
+}
+
 footer {
     background-color: #066665;
     color: white;
